@@ -1,1 +1,2 @@
-# Beginner-Financial-Analysis
+# Loan Amortization Schedule
+
